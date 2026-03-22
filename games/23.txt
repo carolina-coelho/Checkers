@@ -1,0 +1,2 @@
+run w | 8b:b:false 8d:b:false 8f:b:false 8h:b:false 7a:b:false 7c:b:false 7e:b:false 7g:b:false 6b:b:false 6f:b:false 6h:b:false 3c:w:false 3e:w:false 3g:w:false 2b:w:false 2d:w:false 2f:w:false 2h:w:false 1a:w:false 1c:w:false 1e:w:false 1g:w:false 4b:w:false 5c:b:false
+w

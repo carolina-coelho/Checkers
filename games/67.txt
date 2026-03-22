@@ -1,0 +1,2 @@
+run b | 1:b:false 3:b:false 5:b:false 7:b:false 8:b:false 10:b:false 12:b:false 14:b:false 17:b:false 19:b:false 21:b:false 23:b:false 42:w:false 44:w:false 46:w:false 49:w:false 51:w:false 53:w:false 55:w:false 56:w:false 58:w:false 60:w:false 62:w:false 33:w:false
+b
